@@ -1,0 +1,19 @@
+
+.navbar-brand{
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    font-size: 4rem;
+    font-family: roboto;
+    color: brown;
+    background-color: blanchedalmond;
+}
+
+h3{
+    font-size: 2rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    background-color: blanchedalmond; 
+}
