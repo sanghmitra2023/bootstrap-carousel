@@ -7,13 +7,14 @@
 h2{
     font-size: 4rem;
     font-family: roboto;
-    color: brown;
-    background-color: blanchedalmond;
+    color: orangered;
+    background-color: lightgoldenrodyellow;
+
 }
 
 h3{
     font-size: 2rem;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: brown;
-    background-color: blanchedalmond; 
+    color: green;
+    background-color: lightgoldenrodyellow;
 }
